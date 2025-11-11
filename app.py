@@ -99,7 +99,7 @@ with col1:
     st.markdown(
         """
         Atuo na criação de soluções que conectam dados, IA e dispositivos de borda para resolver 
-        problemas reais em cenários como agricultura, saúde, marketing, segurança e impacto social.
+        problemas reais em cenários como agricultura, saúde, marketing e segurança.
         """
     )
 
@@ -433,3 +433,4 @@ with tabs[3]:
 
 # rodape
 st.markdown("---")
+
